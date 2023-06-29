@@ -1,0 +1,8 @@
+.ant-table-wrapper .ant-table-thead >tr>th, :where(.css-dev-only-do-not-override-acm2ia).ant-table-wrapper .ant-table-thead >tr>td {
+   background-color:  #E2F0FF;
+}
+
+.ant-table-wrapper .ant-table-thead >tr>th, :where(.css-dev-only-do-not-override-acm2ia).ant-table-wrapper .ant-table-thead >tr>td {
+   color:
+   #051C7D !important
+}

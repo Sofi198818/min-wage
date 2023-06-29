@@ -1,0 +1,74 @@
+.bg {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)),url('../../assets/images/background.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 80vh;
+
+ max-width: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+
+}
+
+.flex-header{
+  height: 100px;
+ margin: 0 auto;
+ text-align: center;
+}
+
+.content-inside {
+
+  width:500px;
+  height: 500px;
+ /* display: flex;
+ justify-content: center;
+ align-items: center; */
+
+
+  background-color: #fafbfd;
+  border-radius: 10px
+}
+
+.login-form {
+margin-top: 60px;
+}
+
+
+.title-txt {
+  color: black;
+
+}
+
+.footer-col{
+    outline: 2px solid black;
+}
+
+.road-map{
+  width: 100%;
+  height: 40px;
+  display: flex;
+
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+.road-map a{
+  color: black;
+  text-align: center;
+  margin-top: 20px;
+
+
+}
+
+.login-form-forgot{
+  margin-left: 70px;
+  margin-bottom: 40px;
+}

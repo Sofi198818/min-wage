@@ -1,0 +1,29 @@
+/* :where(.css-dev-only-do-not-override-acm2ia).ant-card .ant-card-body {
+    padding: 24px;
+    border-radius: 0 0 8px 8px;
+    display: flex;
+justify-content: space-between;
+
+
+}
+
+:where(.css-dev-only-do-not-override-acm2ia).ant-input-affix-wrapper >input.ant-input {
+    padding: 0;
+    font-size: inherit;
+    border: none;
+    border-radius: 30;
+    outline: none;
+   background:  rgba(131, 150, 170, 0.4) !important;
+   color: #ffffff;
+} */
+
+.ant-input-affix-wrapper{
+    background-color:  #fff !important;
+}
+
+.ant-input-affix-wrapper>input.ant-input {
+    background: #fff !important;
+   
+    }
+
+  

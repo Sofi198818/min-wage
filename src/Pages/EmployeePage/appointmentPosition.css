@@ -1,0 +1,9 @@
+
+
+  .ant-card-body{
+    border: none;
+  }
+
+  .ant-card:not(.ant-card-bordered){
+    box-shadow: none;
+  }

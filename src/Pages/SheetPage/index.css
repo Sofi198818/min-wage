@@ -1,0 +1,52 @@
+.warning-div {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  border: 1px solid rgba(5, 28, 125, 0.2);
+  border-radius: 20px;
+  padding: 20px;
+  color: #051c7d;
+  width: 70%;
+}
+.warning-div::before {
+  content: '!';
+  position: absolute;
+  top: -15px;
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgba(5, 28, 125, 0.2);
+  border-radius: 50%;
+  text-align: center;
+  font-size: 24px;
+  line-height: 1.5;
+  color: red;
+  background-color: #fff;
+}
+
+.card-style {
+  border-radius: 20px;
+  background: linear-gradient(
+    180deg,
+    #051c7d 0%,
+    rgba(5, 28, 125, 0.95) 25%,
+    rgba(5, 28, 125, 0.85) 50%,
+    rgba(5, 28, 125, 0.75) 75%,
+    rgba(5, 28, 125, 0.65) 99.48%
+  );
+  color: #fff;
+}
+
+.ant-progress-text {
+  font-family: 'FiraGO';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.ant-input-affix-wrapper >input.ant-input {
+
+  outline: none;
+  /* background-color: 'rgba(218, 236, 255, 0.4)'; */
+}

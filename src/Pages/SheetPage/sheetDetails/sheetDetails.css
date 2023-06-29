@@ -1,0 +1,58 @@
+.ant-input-affix-wrapper >input.ant-input {
+    padding: 0;
+    font-size: inherit;
+    border: none;
+    border-radius: 30;
+    outline: none;
+   background: #fff !important;
+
+}
+
+/* :where(.css-dev-only-do-not-override-acm2ia).ant-input-affix-wrapper {
+    position: relative;
+    display: inline-flex;
+    width: 100%;
+    min-width: 0;
+    padding: 4px 11px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+    background-color: #ffffff;
+    background-image: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-radius: 6px;
+    transition: all 0.2s;
+}
+
+:where(.css-dev-only-do-not-override-acm2ia).ant-input-affix-wrapper {
+    position: relative;
+    display: inline-flex;
+    width: 100%;
+    min-width: 0;
+    padding: 4px 11px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+    background-color: #ffffff;
+    background-image: none;
+   border: none;
+
+    border-radius: 6px;
+    transition: all 0.2s;
+} */
+
+
+/* .ant-picker-cell-disabled{
+    visibility: hidden;
+} */
+
+.ant-picker-content {
+    text-align: left;
+}
+
+.ant-list {
+    border-radius: 0 !important;
+  }
+

@@ -1,0 +1,17 @@
+.file-input {
+    /* Hide the title text */
+    color: transparent;
+    /* Optional: Remove any additional styling for the file input */
+    background: none;
+    border: none;
+    outline: none;
+    /* Set appropriate width and height for the file input */
+    width: 200px;
+    height: 30px;
+  }
+
+  .upload-button {
+    display: flex;
+    align-items: center;
+  }
+

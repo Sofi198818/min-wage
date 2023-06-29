@@ -1,0 +1,26 @@
+export const HOME_PATH = '/';
+export const ABOUT = '/about';
+export const LOGIN_PAGE = '/login';
+export const RESULT = '/Result';
+export const BRANCH_PAGE = '/branch';
+export const Employees = '/Employees';
+export const ADD_NEW_EMPLOYEE = Employees + '/AddNewEmployee';
+export const ADD_NEW_USER = Employees + '/AddNewUser';
+export const Sheet = '/Sheet';
+export const SHEET_DETAILS = Sheet + '/:id/:contractId/:monthes/:years';
+// export const SHEET_DETAILS = Sheet + '/:id';
+
+export const PASSWORDRECOVERY_PAGE = '/passwordRecovery';
+export const PASSWORDCHANGE_PAGE = '/passwordChange';
+export const LANDING_PAGE = '/landingPage';
+export const AfterLogin_Page = '/landingPages';
+export const StatusCard = '/landingPages/statusCard';
+export const Pharmacy = '/landingPages/Pharmacy';
+export const MinimalWage = '/landingPages/MinimalWage';
+export const Passportization = '/landingPages/Passportization';
+export const NewLoginTest = '/NewLoginTest';
+export const statementPage = '/landingPages/statementPage';
+export const Header_PAGE = '/landingPages';
+export const landingLayout_PAGE = '/landingPages';
+export const Minimal_Wage = '/';
+export const Branches = '/landingPages/MinimalWage/Branches';

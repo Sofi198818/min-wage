@@ -1,0 +1,6 @@
+.ant-segmented-item:hover {
+  background-color: #ffffff;
+  /* background-color: #ffffff; */
+  /* border-radius: 16px; */
+  color: rgb(0, 0, 0) !important;
+}
